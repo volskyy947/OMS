@@ -1,7 +1,7 @@
 //
 // ListProductController
 //
-// 
+// 11 âåð. 2011
 //
 package com.softserveinc.edu.oms.web.product;
 

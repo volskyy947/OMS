@@ -1,7 +1,7 @@
 /**
  * OrderItemDao
  *
- * 
+ * 11 ëèï. 2011
  */
 package com.softserveinc.edu.oms.persistence.dao.interfaces;
 
